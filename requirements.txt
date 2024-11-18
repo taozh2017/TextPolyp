@@ -1,0 +1,14 @@
+einops==0.6.1
+hausdorff==0.2.6
+imageio==2.25.0
+numpy==1.21.0
+opencv_python==4.2.0.34
+Pillow==9.1.1
+requests==2.22.0
+scikit-image==0.19.3
+scipy==1.10.0
+tensorboardX==2.5.1
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+tqdm==4.65.0
+
